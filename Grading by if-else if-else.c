@@ -1,5 +1,3 @@
-
-
 #include<stdio.h>
 
 int main()
@@ -59,5 +57,9 @@ else
 printf("ENTER A VALID MARK");
 
 }
-range 0;
+
+return 0;
+
 }
+
+
